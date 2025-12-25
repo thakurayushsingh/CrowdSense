@@ -88,7 +88,7 @@ This project strictly follows the **Git Flow** methodology to ensure code qualit
 Start by getting the repository to your local machine.
 
 ```bash
-git clone https://github.com/ramsinghyadav4472/CrowdSense.git
+git clone https://github.com/thakurayushsingh/CrowdSense.git
 # Why? Downloads the entire project history and files to your computer.
 ```
 
